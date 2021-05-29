@@ -1,0 +1,30 @@
+Front: Angular 12 (VS Code), puerto: 4200
+
+
+Back: Spring boot 2.4.6 (IntelliJ), puerto: 8080
+--Java 8, Maven
+generado con start.spring.io
+
+
+DB: MySQL (PhpMyAdmin), puerto: 3306
+
+--Todo hecho en localhost
+
+
+//------------------------------
+
+Aplicación para la gestión de empleados.
+
+*Aplicación de MVC.
+*API-REST.
+*Librería para 'pop ups': sweetAlert 2.
+*Estilos de Booststrap.
+
+
+La aplicación permite crear empleados, de igual manera permite listar. Y también usar el botón 'procesar' para cambiar su estado. Todo esto repercute en la base de datos.
+
+
+Nota: se adjunta front:'EmployeeManagement'. Back:'EmployeeManagementBack'. Además de el archivo .sql para recrear lo realizado.
+
+
+Gracias.
